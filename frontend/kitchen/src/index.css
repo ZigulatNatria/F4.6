@@ -1,0 +1,29 @@
+body {
+    background-image: url('image/background.jpg');
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: center;
+}
+
+p {
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+.block{
+    width: 600px;
+    height: 250px;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    margin: -125px 0 0 -125px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

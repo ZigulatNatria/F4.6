@@ -1,0 +1,16 @@
+header{
+    color: white;
+    background: rgba(153, 102, 0, 0.5);
+    font-size: 3rem;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header .some-button {
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    background: rgba(204, 204, 204, 1);
+}
